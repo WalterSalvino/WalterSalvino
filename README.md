@@ -2,7 +2,7 @@
 
   ## Eu sou o Walter,
 
-      😀 Atualemente estundando Web Design, apirante a dev. Front-End.
+      😀 Atualemente estundando Web Design, apirante a Dev. Front-End.
 
  <div>
   <a href="https://github.com/WalterSalvino">
